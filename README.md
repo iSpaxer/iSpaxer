@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-plain.svg" width="50" height="50" alt="Hibernate"/>
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-2jsi8rjw.png" width="50" height="50" alt="Swagger"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" alt="Swagger"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" alt="RabbitMQ"/>
