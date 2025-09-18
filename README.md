@@ -1,7 +1,7 @@
 Привет! 👋 Меня зовут Саша
 ===================================
 
-Я занимаюсь backend-разработкой на Java и desktop-разработкой на C++
+Я занимаюсь backend-разработкой на Java, а так же имею опыт desktop-разработки на C++
 ----------------------------------------------
 
 * 🌍 Живу и учусь в Нижнем Новгороде  
@@ -39,11 +39,11 @@
 
 📌 Некоторые из моих pet-проектов:
 -----------------------------------
-- ☕ [REST-сервис на Spring с авторизацией через JWT и OAuth2](https://github.com/iSpaxer?tab=repositories#:~:text=Star-,AccountService,-Public) 
-- 🍔 [Клон Яндекс.Еды: микросервис на Java с MinIO, Redis и NGINX](https://github.com/iSpaxer?tab=repositories&q=&type=public&language=&sort=#:~:text=Star-,Javetex,-Public) 
+- ☕ [REST-сервис на Spring с авторизацией через JWT и OAuth2](https://github.com/iSpaxer/AccountService) 
+- 🍔 [Клон Яндекс.Еды: микросервис на Java с MinIO, Redis и NGINX](https://github.com/iSpaxer/Javetex) 
 - 📡 [BLE-клиент-сервер для синхронизации буфера обмена между macOS/iOS/Linux](https://github.com/iSpaxer/Spaxer)
 - 🎮 [Игра "5 в ряд" с ИИ (Minimax + alpha-beta pruning)](https://github.com/iSpaxer/ITT-Infinity_TicTac) 
-- 🧠 [Telegram-бот с AI GigaChat для генерации рецептов](https://github.com/iSpaxer?tab=repositories&q=&type=public&language=&sort=#:~:text=Star-,GigachatBot,-Public) 
+- 🧠 [Telegram-бот с AI GigaChat для генерации рецептов](https://github.com/iSpaxer/GigachatBot) 
 - 🎥 [Курсовые на C++ с OpenCV и многопоточностью (pthreads, OpenMP)](https://github.com/orgs/Fundamentals-of-parallel-computing/repositories)  
 
 <br/>
@@ -52,7 +52,7 @@
 ------------------
 
 <a href="https://github.com/iSpaxer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSpaxer&langs_count=6&title_color=ffb400&text_color=ffffff&icon_color=00c896&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20Languages&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSpaxer&langs_count=6&title_color=ffb400&text_color=ffffff&icon_color=00c896&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20Languages&layout=compact&exclude_repo=Cadastre" alt="Top languages"/>
 </a>
 
 <a href="https://github.com/iSpaxer">
