@@ -54,7 +54,3 @@
 <a href="https://github.com/iSpaxer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSpaxer&langs_count=6&title_color=ffb400&text_color=ffffff&icon_color=00c896&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20Languages&layout=compact&exclude_repo=Cadastre" alt="Top languages"/>
 </a>
-
-<a href="https://github.com/iSpaxer">
-  <img src="https://github-readme-stats.vercel.app/api?username=iSpaxer&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb400&text_color=ffffff&icon_color=00c896" alt="GitHub Stats"/>
-</a>
